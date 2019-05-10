@@ -31,6 +31,7 @@ e.sendKeys("selenium");
 e.sendKeys(Keys.RETURN);
 System.out.println(e);
 System.out.println("enter a no");
+System.out.println("a+b=c");
 	/*e.clear();
 	e.click();
 	
