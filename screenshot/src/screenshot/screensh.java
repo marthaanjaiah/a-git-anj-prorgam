@@ -30,6 +30,7 @@ WebElement e=dr.findElement(By.xpath("//input[@name='q']"));
 e.sendKeys("selenium");
 e.sendKeys(Keys.RETURN);
 System.out.println(e);
+System.out.println( "--------");
 	/*e.clear();
 	e.click();
 	
