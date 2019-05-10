@@ -32,6 +32,7 @@ e.sendKeys(Keys.RETURN);
 System.out.println(e);
 System.out.println("enter a no");
 System.out.println("a+b=c");
+System.out.println("a-b");
 	/*e.clear();
 	e.click();
 	
